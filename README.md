@@ -1,2 +1,2 @@
 # n-queen-
-a simple n queen problem code 
+a simple n queen problem code. 
